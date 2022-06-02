@@ -3,8 +3,8 @@
 - 🌱 Atualmente estou aprendendo na Trybe Desenvolvimento Web FullStack
 - 💞️ Estou procurando colaborar com desenvolvimento web, JavaScript, HTML, CSS, React
 - 📫 Como me encontrar: 
-                        -   Linkedin ou email: https://www.linkedin.com/in/isaque-f-s-almeida/
-                        -   e-mail: isaque.santos@ufpe.br
+                           Linkedin ou email: https://www.linkedin.com/in/isaque-f-s-almeida/
+                           e-mail: isaque.santos@ufpe.br
 
 <!---
 IsaqueAlmeida/IsaqueAlmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
