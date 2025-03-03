@@ -16,8 +16,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 Minhas Estatísticas no GitHub:
-![Isaque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaqueAlmeida&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueAlmeida&layout=compact&theme=dark)
+![Isaque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaqueAlmeida&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueAlmeida&layout=compact&theme=dark)
 
 ## 🏆 Meus Troféus e Conquistas:
 [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
