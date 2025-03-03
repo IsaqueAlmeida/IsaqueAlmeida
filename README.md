@@ -1,4 +1,3 @@
-![Imagem de Boas-Vindas](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 # 👋 Olá, eu sou Isaque Almeida!  
 🚀 Apaixonado por Ciência de Dados e Machine Learning ☁️  
 🎯 Sempre aprendendo novas tecnologias!  
@@ -20,6 +19,10 @@
 ## 📊 Minhas Estatísticas no GitHub:
 ![Isaque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaqueAlmeida&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueAlmeida&layout=compact&theme=dark)
+
+## 🏆 Meus Troféus e Conquistas
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=IsaqueAlmeida&theme=darkhub&row=1)
+
 
 ---
 ⭐️ **Se gostou, deixe uma estrela nos meus repositórios!**
