@@ -6,8 +6,7 @@
 - 🔭 Atualmente estou estudando Data Science e Machine Learnin na Ampli  
 - 🌱 Buscando aprimorar minhas habilidades em Python, SQL e Big Data, IA e Machine Learning
 - 📫 Como me encontrar:  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaqueAlmeida)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-f-s-almeida/)  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaqueAlmeida)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-f-s-almeida/)  
 
 ## 🚀 Tecnologias que uso:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
