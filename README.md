@@ -24,6 +24,10 @@
 [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 ![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=IsaqueAlmeida&theme=darkhub&row=1)
 
+## Contador de Visitas:
+![Visitantes](https://komarev.com/ghpvc/?username=IsaqueAlmeida&color=blue)
+
+
 
 ---
 ⭐️ **Se gostou, deixe uma estrela nos meus repositórios!**
