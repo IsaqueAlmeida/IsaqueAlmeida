@@ -1,3 +1,4 @@
+![Imagem de Boas-Vindas](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 # 👋 Olá, eu sou Isaque Almeida!  
 🚀 Apaixonado por Ciência de Dados e Machine Learning ☁️  
 🎯 Sempre aprendendo novas tecnologias!  
