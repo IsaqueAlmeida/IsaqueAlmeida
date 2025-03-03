@@ -3,7 +3,8 @@
 🎯 Sempre aprendendo novas tecnologias!  
 
 ## 🌎 Sobre mim:
-- 🔭 Atualmente estou estudando Data Science e Machine Learnin na Ampli  
+- 🔭 Atualmente estou estudando Data Science e Machine Learning na Ampli
+- Sou formado em Física pela Universidade Federal de Pernambuco
 - 🌱 Buscando aprimorar minhas habilidades em Python, SQL e Big Data, IA e Machine Learning
 - 📫 Como me encontrar:  
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaqueAlmeida)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaque-f-s-almeida/)  
